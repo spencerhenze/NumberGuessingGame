@@ -1,0 +1,10 @@
+C:\source\codeworks\morning-challenges\NumberGuessingGame\bin\Debug\netcoreapp2.0\NumberGuessingGame.deps.json
+C:\source\codeworks\morning-challenges\NumberGuessingGame\bin\Debug\netcoreapp2.0\NumberGuessingGame.runtimeconfig.json
+C:\source\codeworks\morning-challenges\NumberGuessingGame\bin\Debug\netcoreapp2.0\NumberGuessingGame.runtimeconfig.dev.json
+C:\source\codeworks\morning-challenges\NumberGuessingGame\bin\Debug\netcoreapp2.0\NumberGuessingGame.dll
+C:\source\codeworks\morning-challenges\NumberGuessingGame\bin\Debug\netcoreapp2.0\NumberGuessingGame.pdb
+C:\source\codeworks\morning-challenges\NumberGuessingGame\obj\Debug\netcoreapp2.0\NumberGuessingGame.csproj.CoreCompileInputs.cache
+C:\source\codeworks\morning-challenges\NumberGuessingGame\obj\Debug\netcoreapp2.0\NumberGuessingGame.AssemblyInfoInputs.cache
+C:\source\codeworks\morning-challenges\NumberGuessingGame\obj\Debug\netcoreapp2.0\NumberGuessingGame.AssemblyInfo.cs
+C:\source\codeworks\morning-challenges\NumberGuessingGame\obj\Debug\netcoreapp2.0\NumberGuessingGame.dll
+C:\source\codeworks\morning-challenges\NumberGuessingGame\obj\Debug\netcoreapp2.0\NumberGuessingGame.pdb
